@@ -3,19 +3,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-       <loc>http://runminjiang.me/</loc>
+       <loc>http://runminjiang.github.io/</loc>
        <lastmod>2023-10-07T02:28:53+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>1.0000</priority>
   </url>
   <url>
-       <loc>http://runminjiang.me/publication/</loc>
+       <loc>http://runminjiang.github.io/publication/</loc>
        <lastmod>2023-10-07T02:28:53+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
   </url>
   <url>
-       <loc>http://runminjiang.me/award/</loc>
+       <loc>http://runminjiang.github.io/award/</loc>
        <lastmod>2023-10-07T02:28:53+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.8000</priority>
